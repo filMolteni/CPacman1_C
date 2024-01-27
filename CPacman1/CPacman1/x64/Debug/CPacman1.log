@@ -1,0 +1,9 @@
+﻿  CAreaDiGioco.cpp
+E:\Pozzi\CPacman1\CPacman1\CPacman1\CAreaDiGioco.cpp(181,33): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  CFantasma.cpp
+  main.cpp
+E:\Pozzi\CPacman1\CPacman1\CPacman1\main.cpp(41,1): warning C4326: il tipo restituito di 'main' dovrebbe essere 'int' invece di 'void'
+E:\Pozzi\CPacman1\CPacman1\CPacman1\main.cpp(46,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+E:\Pozzi\CPacman1\CPacman1\CPacman1\CFantasma.cpp(135): warning C4715: 'CFantasma1::carattereRnd': non tutti i percorsi di controllo restituiscono un valore
+  CPacman1.vcxproj -> E:\Pozzi\CPacman1\CPacman1\x64\Debug\CPacman1.exe
